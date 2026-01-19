@@ -1,0 +1,7 @@
+{
+  "name": "CinéText: History Alive",
+  "description": "Transform any raw text or historical document into an immersive, cinematic multi-character story with AI-generated voices and visuals.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
